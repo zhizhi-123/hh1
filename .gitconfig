@@ -1,0 +1,3 @@
+[user]
+	email = 1531392182@qq.com\ngit config --global user.email 1531392182@qq.com
+	name = hh1
